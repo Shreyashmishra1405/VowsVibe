@@ -5,7 +5,7 @@ const Navbar = () => {
   const [open, setOpen] = useState(false);
   return (
     <>
-      <div className="flex flex-col md:hidden text-black ">
+      <div className="flex flex-col md:hidden text-black w-full ">
         <div className="bg-[#CA8787] w-full flex  justify-center text-white p-2 text-sm">
           50% off on all items till 23 Jan
         </div>

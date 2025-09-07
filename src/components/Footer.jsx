@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <>
-      <div className=" grid px-6 py-8  bg-[#D9D9D9] grid-cols-2 md:grid-cols-4 gap-y-10 md:justify-center ">
+      <div className=" grid px-6 py-8 w-full  bg-[#D9D9D9] grid-cols-2 md:grid-cols-4 gap-y-10 md:justify-center ">
         <div className="flex flex-col gap-2">
           <span className="text-[#A40303] text-lg font-semibold">
             Quick links

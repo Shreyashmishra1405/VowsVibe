@@ -5,11 +5,11 @@ import Trending from "./components/Trending";
 
 const App = () => {
   return (
-    <div className="flex flex-col ">
+    <div className="flex flex-col">
       <Navbar />
       <Product />
       <Trending />
-      <div className="hidden md:block">
+      <div className="hidden md:block bg-amber-400">
         <Trending  />
       </div>
       <Footer />

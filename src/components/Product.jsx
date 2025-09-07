@@ -54,7 +54,7 @@ const Product = () => {
                   </span>
                 </div>
                 <div className="flex flex-row gap-2 font-semibold justify-between">
-                  <button className="py-2 px-8 bg-white text-[#FF8F9D] cursor-pointer border border-[#FF8F9D] w-1/2">
+                  <button className="py-2 px-8 bg-white text-[#FF8F9D] text-sm   cursor-pointer border border-[#FF8F9D] min-w-1/2">
                     ADD TO CART
                   </button>
                   <button className="py-2 px-8 bg-[#FF8F9D] text-white cursor-pointer w-1/2">
