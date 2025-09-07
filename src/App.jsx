@@ -9,7 +9,7 @@ const App = () => {
       <Navbar />
       <Product />
       <Trending />
-      <div className="hidden md:block bg-amber-400">
+      <div className="hidden md:block">
         <Trending  />
       </div>
       <Footer />
